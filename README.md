@@ -1,2 +1,4 @@
-# DIO.desafio-GITHUB
-Desafio de Projeto - GIT / Github
+# Desafio de Projeto sobre GIT / GitHub da DIO
+Repositório criado para o ***Desafio de Projeto.***
+
+## 
